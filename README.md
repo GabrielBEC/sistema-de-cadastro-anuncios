@@ -1,4 +1,4 @@
-# Aplicação de Cadastro de Anúncios
+# Sistema de Cadastro de Anúncios
 
 Essa aplicação foi construída para a **2ª parte** do Desafio de Programação Academia Capgemini
 
