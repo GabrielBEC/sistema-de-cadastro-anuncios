@@ -62,7 +62,10 @@ public class App {
                 }
                 System.out.print("Deseja continuar (1) ou finalizar (0): ");
                 i = sc.nextInt();
-                if (i == 0) break;
+                if (i == 0) {
+                    System.out.println("Programa finalizado");
+                    System.exit(0);
+                }
 
             } while (true);
         } catch (InputMismatchException e) {
